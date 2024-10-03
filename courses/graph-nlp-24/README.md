@@ -20,7 +20,7 @@ TODO
 
 TODO
 
-## Structure/Reading List
+## Schedule/Reading List
 
 | Topic | Date | Reading | Background Reading (Optional) | Discussion Leader |
 | :--- | :--- | :--- | :--- | :--- |
