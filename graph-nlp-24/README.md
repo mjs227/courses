@@ -73,4 +73,4 @@ Term paper: 40%
 | Syntactic/Semantic Parsing | Feb. 6 | [Graph-based Dependency Parsing with Graph Neural Networks](https://aclanthology.org/P19-1237) | - | TBD |
 
 ## Term Papers
-TBD
+Details TBD
