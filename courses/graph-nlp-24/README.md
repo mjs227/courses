@@ -25,5 +25,5 @@ TODO
 | Topic | Date | Reading | (Optional) Background Reading | Discussion Leader |
 | :--- | :--- | :--- | :--- | :--- |
 | Introduction | Oct. 17 | None (logistics and scheduling) | - | Michael |
-| Introduction | Oct. 24 | [Machine Learning on Graphs](https://www.jmlr.org/papers/v23/20-852.html) | - | Michael |
+| Introduction | Oct. 24 | [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://www.jmlr.org/papers/v23/20-852.html) | - | Michael |
 | Machine Translation | Oct. 31 | TBD | - | TBD |
