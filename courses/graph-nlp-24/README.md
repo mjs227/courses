@@ -22,6 +22,6 @@ TODO
 
 ## Structure/Reading List
 
-**Introduction**
-
-- Oct 24:
+| Topic | Reading | Discussion Leader |
+| :--- | :--- | :--- |
+| test 1 | test 2 | test 3 |
