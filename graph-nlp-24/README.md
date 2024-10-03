@@ -1,4 +1,4 @@
-# Graph Deep Learning for NLP
+# Graph Deep Learning for NLP (UdS; WiSe 24/25)
 
 ## Description
 
