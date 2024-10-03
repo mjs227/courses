@@ -24,4 +24,4 @@ TODO
 
 **Introduction**
 
--Oct 24:
+- Oct 24:
