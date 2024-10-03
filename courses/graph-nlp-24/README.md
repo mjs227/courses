@@ -24,7 +24,7 @@ TODO
 
 | Topic | Date | Reading | Background Reading (Optional) | Discussion Leader |
 | :--- | :--- | :--- | :--- | :--- |
-| $${\color{cyan}Introduction}$$ | Oct. 17 | None (logistics and scheduling) | - | Michael |
+| $${\color{cyan}\text{Introduction}}$$ | Oct. 17 | None (logistics and scheduling) | - | Michael |
 | $${\color{cyan}Introduction}$$ | Oct. 24 | [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://www.jmlr.org/papers/v23/20-852.html) | - | Michael |
 | $${\color{violet}Machine\hspace{1mm}Translation}$$ | Oct. 31 | [Document Graph for Neural Machine Translation](https://aclanthology.org/2021.emnlp-main.663) | [Semi-Supervised Classification with Graph Convolutional Networks](https://openreview.net/forum?id=SJU4ayYgl) | TBD |
 | Machine Translation | Nov. 7 | [A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation](https://aclanthology.org/2020.acl-main.273) | - | TBD |
