@@ -22,6 +22,7 @@ TODO
 
 ## Structure/Reading List
 
-| Topic | Reading | Discussion Leader |
-| :--- | :--- | :--- |
-| test 1 | test 2 | test 3 |
+| Topic | Date | Reading | Discussion Leader |
+| :--- | :--- | :--- | :--- |
+| Introduction | Oct. 17 | None (logistics and scheduling) | Michael |
+| Introduction | Oct. 24 | TBD | Michael |
