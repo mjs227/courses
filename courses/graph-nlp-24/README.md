@@ -40,5 +40,6 @@ TODO
 | KG-Construction | Jan. 23 | [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://ojs.aaai.org/index.php/AAAI/article/view/5684) | - | TBD |
 | Syntactic/Semantic Parsing | Jan. 30 | [Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty](https://aclanthology.org/2022.findings-acl.328) | - | TBD |
 | Syntactic/Semantic Parsing | Feb. 6 | [Graph-based Dependency Parsing with Graph Neural Networks](https://aclanthology.org/P19-1237) | - | TBD |
+| $${\color{red}Red}$$ | - | - | - | - |
 
 **Useful Additional Reading:** [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387715)
