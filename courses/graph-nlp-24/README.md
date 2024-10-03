@@ -22,7 +22,7 @@ TODO
 
 ## Structure/Reading List
 
-| Topic | Date | Reading | (Optional) Background Reading | Discussion Leader |
+| Topic | Date | Reading | Background Reading (Optional) | Discussion Leader |
 | :--- | :--- | :--- | :--- | :--- |
 | Introduction | Oct. 17 | None (logistics and scheduling) | - | Michael |
 | Introduction | Oct. 24 | [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://www.jmlr.org/papers/v23/20-852.html) | - | Michael |
@@ -41,3 +41,4 @@ TODO
 | Syntactic/Semantic Parsing | Jan. 30 | [Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty](https://aclanthology.org/2022.findings-acl.328) | - | TBD |
 | Syntactic/Semantic Parsing | Feb. 6 | [Graph-based Dependency Parsing with Graph Neural Networks](https://aclanthology.org/P19-1237) | - | TBD |
 
+**Useful Additional Reading:** [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387715)
