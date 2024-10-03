@@ -10,7 +10,7 @@ This course assumes a solid background in NLP/ML and current language models: yo
 
 You should also (at least) know what a graph is. If you don't, just read the Wikipedia page, and you should be fine: [https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics))
 
-You do not, however, need any background in graph deep learning: we will discuss current meothodologies for modeling graph-stuctured data (i.e. graph neural networks) in class.
+You do not, however, need any background in graph deep learning: we will discuss current methodologies for modeling graph-stuctured data (i.e. graph neural networks) in class.
 
 ## Information
 
