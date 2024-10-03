@@ -25,8 +25,8 @@ TODO
 | Topic | Date | Reading | Background Reading (Optional) | Discussion Leader |
 | :--- | :--- | :--- | :--- | :--- |
 | $${\color{cyan}Introduction}$$ | Oct. 17 | None (logistics and scheduling) | - | Michael |
-| Introduction | Oct. 24 | [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://www.jmlr.org/papers/v23/20-852.html) | - | Michael |
-| Machine Translation | Oct. 31 | [Document Graph for Neural Machine Translation](https://aclanthology.org/2021.emnlp-main.663) | [Semi-Supervised Classification with Graph Convolutional Networks](https://openreview.net/forum?id=SJU4ayYgl) | TBD |
+| $${\color{cyan}Introduction}$$ | Oct. 24 | [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://www.jmlr.org/papers/v23/20-852.html) | - | Michael |
+| $${\color{violet}Machine Translation}$$ | Oct. 31 | [Document Graph for Neural Machine Translation](https://aclanthology.org/2021.emnlp-main.663) | [Semi-Supervised Classification with Graph Convolutional Networks](https://openreview.net/forum?id=SJU4ayYgl) | TBD |
 | Machine Translation | Nov. 7 | [A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation](https://aclanthology.org/2020.acl-main.273) | - | TBD |
 | KG-Incorporation | Nov. 14 | [GreaseLM: Graph REASoning Enhanced Language Models](https://openreview.net/forum?id=41e9o6cQPj) | [Graph Attention Networks](https://openreview.net/forum?id=rJXMpikCZ) | TBD |
 | KG-Incorporation | Nov. 21 | [Deep Bidirectional Language-Knowledge Graph Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Paper-Conference.pdf) | - | TBD |
@@ -40,6 +40,5 @@ TODO
 | KG-Construction | Jan. 23 | [Commonsense Knowledge Base Completion with Structural and Semantic Context](https://ojs.aaai.org/index.php/AAAI/article/view/5684) | - | TBD |
 | Syntactic/Semantic Parsing | Jan. 30 | [Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty](https://aclanthology.org/2022.findings-acl.328) | - | TBD |
 | Syntactic/Semantic Parsing | Feb. 6 | [Graph-based Dependency Parsing with Graph Neural Networks](https://aclanthology.org/P19-1237) | - | TBD |
-| $${\color{red}Red}$$ | - | - | - | - |
 
 **Useful Additional Reading:** [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387715)
