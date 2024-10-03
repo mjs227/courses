@@ -13,8 +13,8 @@ You do not, however, need any background in graph deep learning: we will discuss
 ## Information
 
 **Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/)
-- [mjs227@buffalo.edu](mjs227@buffalo.edu) (I check this one more often)
-- or [msullivan@lst.uni-saarland.de](msullivan@lst.uni-saarland.de)
+- mjs227@buffalo.edu (I check this one more often)
+- or msullivan@lst.uni-saarland.de
 
 **Time/Location:** Thu 16:15 - 17:45; Building C7.2, Room 1.05
 
