@@ -53,8 +53,8 @@ You will then write up a final report on your findings. Describe your baseline m
 
 ## Evaluation
 
-- Project Work (Phases 1-4): 60%
-- Final Report (Phase 5): 40%
+- Project Work (Phases 1-4): 65%
+- Final Report (Phase 5): 35%
 
 
 
