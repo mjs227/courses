@@ -55,9 +55,10 @@ The final report and all code/materials used in Phases 1-4 will be due at the en
 
 ## Evaluation
 
-- Project Work (Phases 1-4): 65%
-- Final Report (Phase 5): 35%
-
+```
+Project Work (Phases 1-4): 65%
+Final Report (Phase 5): 35%
+```
 
 
 
