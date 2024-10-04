@@ -49,7 +49,7 @@ In this phase, you will apply the techniques that you implemented in Phase 2 to 
 
 ### Phase 5: Final Report
 
-You will then write up a final report on your findings. Describe your baseline model and the analysis that you conducted in Phase 2. Discuss your modifications that you implemented in Phase 3, and justify them using your Phase 2 analysis and prior research in this area. Use your Phase 4 analysis to demonstate the benefits (and limitations) of these modifications. This report should be eight pages (excluding references and appendix) in ACL format.
+You will then write up a final report on your findings. Describe your baseline model and the analysis that you conducted in Phase 2. Discuss the modifications that you implemented in Phase 3, and justify them using your Phase 2 analysis and prior research in this area. Use your Phase 4 analysis to demonstate the benefits (and limitations) of these modifications. This report should be eight pages (excluding references and appendix) in ACL format.
 
 ## Evaluation
 
