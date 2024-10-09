@@ -72,5 +72,7 @@ Term paper: 40%
 | Syntactic/Semantic Parsing | Jan. 30 | [Towards Collaborative Neural-Symbolic Graph Semantic Parsing via Uncertainty](https://aclanthology.org/2022.findings-acl.328) | - | TBD |
 | Syntactic/Semantic Parsing | Feb. 6 | [Graph-based Dependency Parsing with Graph Neural Networks](https://aclanthology.org/P19-1237) | - | TBD |
 
+**Useful additional reading**: [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387715)
+
 ## Term Papers
 Details TBD
