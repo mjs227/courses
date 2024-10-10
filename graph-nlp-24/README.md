@@ -29,7 +29,7 @@ Each week, we will meet to discuss the assigned reading (see *Schedule/Reading L
 At the beginning of the semester, each student will choose a reading for which they will lead the discussion ("Discussion Leader"): if you do not reach out to me to chose a reading, I will randomly assign you a paper. The Discussion Leader will:
 
 - **Summarize**: Discuss the authors' approach/methods, main findings, and any relevant background on the topic
-- **Critically analyze**: What is your opinion of the methods/findings of the paper? What should (or shouldn't) have been included?
+- **Critically analyze**: What is your opinion of the methods/findings of the paper? What should (or shouldn't) have been included? What limitations does this approach have?
 - **Field questions**: While you are *not* expected to cover every minute detail of the reading in your summary/analysis, you *should* know the paper well enough to be able to answer any questions your classmates might have (within reason, of course!).
 
 While you are not necessarily expected to create slides as Discussion Leader, sometimes visuals can help! Feel free to use a slide deck, if you would like.
@@ -75,4 +75,17 @@ Term paper: 40%
 **Useful additional reading**: [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10387715)
 
 ## Term Papers
-Details TBD
+
+Students taking the course for 7 credits will be expected to write a survey paper on one of the topics discussed in class (or&mdash;with my approval&mdash;another topic at the intersection of graph deep learning and NLP). Your task is to take a deep dive into the current literature on your chosen topic, and identify 3-4 major sub-areas.
+
+For each sub-area, identify the main challenges and choose 2-3 papers that are representative of that sub-area: you *should* include relevant readings that we discussed in class, but they do *not* count towards the 2-3 paper requirement. For each paper, you will summarize and analyze the authors' methods (experimental design, model architecture, and training procedure) and results: you are essentially expected to act as a "mini Discussion Leader" (minus the "field questions" part) for each of these papers, but in a written format (obviously). 
+
+There is no minimum length for the term paper: if you satisfy all of the requirements described above, your paper will be long enough (I'm expecting these to be somewhere in the neighborhood of eight pages). There is also no strict maximum page count. That being said, please limit your paper to a reasonable length: I would really prefer not to have to read fifteen fifty-page papers at the end of the course!
+
+Here are some examples of survey papers, to give you an idea of the expected structure of your report:
+- [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://www.jmlr.org/papers/v23/20-852.html)
+- [A General Survey on Attention Mechanisms in Deep Learning](https://arxiv.org/pdf/2203.14263)
+- [A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/pdf/2202.01110)
+- [A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey): collection of 1000+ NLP survey papers
+
+Term papers will be due by March 21, 2024, and should be submitted in ACL format. 
