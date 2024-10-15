@@ -88,4 +88,4 @@ Here are some examples of survey papers, to give you an idea of the expected str
 - [A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/pdf/2202.01110)
 - [A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey): collection of 1000+ NLP survey papers
 
-Term papers will be due by March 21, 2024, and should be submitted in ACL format. 
+Term papers will be due by March 21, 2025, and should be submitted in ACL format. 
