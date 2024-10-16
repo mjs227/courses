@@ -62,7 +62,7 @@ Term paper: 40%
 | KG Incorporation | Nov. 14 | [GreaseLM: Graph REASoning Enhanced Language Models](https://openreview.net/forum?id=41e9o6cQPj) | [Graph Attention Networks](https://openreview.net/forum?id=rJXMpikCZ) | TBD |
 | KG Incorporation | Nov. 21 | [Deep Bidirectional Language-Knowledge Graph Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Paper-Conference.pdf) | - | TBD |
 | KG Incorporation | Nov. 28 | [Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation](https://aclanthology.org/2023.acl-long.253/) | [Weisfeiler and Leman Go Neural: Higher-Order Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/4384) | TBD |
-| Relation Extraction | Dec. 5 | [Dialogue Relation Extraction with Document‑Level Heterogeneous Graph Attention Networks](https://link.springer.com/article/10.1007/s12559-023-10110-1) | - | TBD |
+| Relation Extraction | Dec. 5 | [Dialogue Relation Extraction with Document‑Level Heterogeneous Graph Attention Networks](https://link.springer.com/article/10.1007/s12559-023-10110-1) | - | Nellia |
 | Relation Extraction | Dec. 12 | [A Graph Convolutional Network With Multiple Dependency Representations for Relation Extraction](https://ieeexplore.ieee.org/abstract/document/9446853) | - | TBD |
 | Structured-Data-to-Text | Dec. 19 | [AMR-To-Text Generation with Graph Transformer](https://aclanthology.org/2020.tacl-1.2/) | - | TBD |
 | Structured-Data-to-Text | Jan. 9 | [Improving Encoder by Auxiliary Supervision Tasks for Table-to-Text Generation](https://aclanthology.org/2021.acl-long.466.pdf) | - | TBD |
