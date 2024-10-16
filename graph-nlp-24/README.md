@@ -16,9 +16,9 @@ You do not, however, need any background in graph deep learning: we will discuss
 - mjs227@buffalo.edu (I check this one more often)
 - or msullivan@lst.uni-saarland.de
 
-**Time/Location:** Thu 16:15 - 17:45; Building C7.2, Room 1.05
+**Time/Location:** Thu 16:15 - 17:45; Building C7.2, Room -1.05
 
-**Office Hours:** TBD
+**Office Hours:** Wed 12:00 - 14:00; Building C7.2, Room 1.04
 
 ## Format/Requirements
 
