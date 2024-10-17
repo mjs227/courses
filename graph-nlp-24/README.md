@@ -18,7 +18,7 @@ You do not, however, need any background in graph deep learning: we will discuss
 
 **Time/Location:** Thu 16:15 - 17:45; Building C7.2, Room -1.05
 
-**Office Hours:** Wed 12:00 - 14:00; Building C7.2, Room 1.04
+**Office Hours:** Wed 12:00 - 14:00; Building C7.2, Room 1.04 (or on Zoom/Teams by appointment)
 
 ## Format/Requirements
 
