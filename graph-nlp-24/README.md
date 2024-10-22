@@ -60,7 +60,7 @@ Term paper: 40%
 | Machine Translation | Oct. 31 | [Document Graph for Neural Machine Translation](https://aclanthology.org/2021.emnlp-main.663) | [Semi-Supervised Classification with Graph Convolutional Networks](https://openreview.net/forum?id=SJU4ayYgl) | TBD |
 | Machine Translation | Nov. 7 | [A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation](https://aclanthology.org/2020.acl-main.273) | - | TBD |
 | KG Incorporation | Nov. 14 | [GreaseLM: Graph REASoning Enhanced Language Models](https://openreview.net/forum?id=41e9o6cQPj) | [Graph Attention Networks](https://openreview.net/forum?id=rJXMpikCZ) | Larisa |
-| KG Incorporation | Nov. 21 | [Deep Bidirectional Language-Knowledge Graph Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Paper-Conference.pdf) | - | TBD |
+| KG Incorporation | Nov. 21 | [Deep Bidirectional Language-Knowledge Graph Pretraining](https://proceedings.neurips.cc/paper_files/paper/2022/file/f224f056694bcfe465c5d84579785761-Paper-Conference.pdf) | - | Helin |
 | KG Incorporation | Nov. 28 | [Enhancing Dialogue Generation via Dynamic Graph Knowledge Aggregation](https://aclanthology.org/2023.acl-long.253/) | [Weisfeiler and Leman Go Neural: Higher-Order Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/4384) | TBD |
 | Relation Extraction | Dec. 5 | [Dialogue Relation Extraction with Document‑Level Heterogeneous Graph Attention Networks](https://link.springer.com/article/10.1007/s12559-023-10110-1) | - | Nellia |
 | Relation Extraction | Dec. 12 | [A Graph Convolutional Network With Multiple Dependency Representations for Relation Extraction](https://ieeexplore.ieee.org/abstract/document/9446853) | - | TBD |
