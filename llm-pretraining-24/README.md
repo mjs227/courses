@@ -17,9 +17,7 @@ This course is geared towards Master's students who have experience with either 
 - mjs227@buffalo.edu (I check this one more often)
 - or msullivan@lst.uni-saarland.de
 
-**Time/Location:** TBD
-
-**Office Hours:** TBD
+**Time/Location:** Building C7.2, Room 1.04 (Time varies per team) 
 
 ## Schedule
 
