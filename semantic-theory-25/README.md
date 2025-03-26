@@ -7,9 +7,7 @@ TODO
 
 ## Information
 
-**Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/)
-- mjs227@buffalo.edu (I check this one more often)
-- or msullivan@lst.uni-saarland.de
+**Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/) (msullivan@lst.uni-saarland.de)
 
 **Time/Location:** TODO
 
