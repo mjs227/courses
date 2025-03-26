@@ -5,8 +5,8 @@
 | Week | Reading | Tuesday | Wednesday |
 | :--- | :--- | :--- | :--- |
 | April 15-16 | None | Introduction | No lecture |
-| April 22-23 | TODO | Predicate Logic | No lecture |
-| April 29-30 | TODO | Type Theory | Exercise 1: Predicate Logic |
+| April 22-23 | 1. [*Logic in Action*, Ch. 4 (Sec. 4.5-4.6)](http://www.logicinaction.org/docs/ch4.pdf)<br>2. [*Elements of Formal Semantics*, Ch. 2](https://www.phil.uu.nl/~yoad/efs/EFS-ch2-online.pdf) | Predicate Logic | No lecture |
+| April 29-30 | [*Elements of Formal Semantics*, Ch. 3<br>(Parts 1-2)](https://www.phil.uu.nl/~yoad/efs/EFS-ch3-online.pdf) | Type Theory | Exercise 1: Predicate Logic |
 | May 6-7 | TODO | Lambda Calculus | Exercise 2: Type Theory |
 | May 13-14 | TODO | Generalized Quantifiers | Exercise 3: Lambda Calculus |
 | May 20-21 | TODO | Implicature | Exercise 4: Generalized Quantifiers |
