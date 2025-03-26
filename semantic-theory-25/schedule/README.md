@@ -10,8 +10,8 @@
 | May 6-7 | [*Elements of Formal Semantics*, Ch. 3<br>(Part 3)](https://www.phil.uu.nl/~yoad/efs/EFS-ch3-online.pdf) | Lambda Calculus | Exercise 2: Type Theory |
 | May 13-14 | [Generalized Quantifiers (Stanford<br>Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/generalized-quantifiers/) | Generalized Quantifiers | Exercise 3: Lambda Calculus |
 | May 20-21 | TODO | Implicature | Exercise 4: Generalized Quantifiers |
-| May 27-28 | TODO | Lexical Semantics | Exercise 5: Implicature |
-| June 3-4 | TODO | Event Semantics | Exercise 6: Lexical Semantics |
+| May 27-28 | None | Lexical Semantics | Exercise 5: Implicature |
+| June 3-4 | [Event-Based Semantics (Lasersohn, 2012)](https://semanticsarchive.net/Archive/jFhNWM2M/eventbasedsemantics.pdf) | Event Semantics | Exercise 6: Lexical Semantics |
 | June 10-11| TODO | Dynamic Semantics | Exercise 7: Event Semantics |
 | June 17-18 | TODO | DRT | Exercise 8: Dynamic Semantics |
 | June 24-25 | TODO | Presuppositions | Exercise 9: DRT |
