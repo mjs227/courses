@@ -1,3 +1,4 @@
+[Assignments]([https://www.acsu.buffalo.edu/~mjs227/](https://mjs227.github.io/courses/semantic-theory-25/assignments/))
 # Semantic Theory (UdS; SoSe 25)
 
 ## Description
