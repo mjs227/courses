@@ -5,8 +5,6 @@
 
 TODO
 
-**Prerequisites**: Familiarity with first-order predicate logic.
-
 ## Information
 
 **Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/)
