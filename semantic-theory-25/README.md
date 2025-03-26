@@ -5,7 +5,7 @@
 
 TODO
 
-**Prerequisites**: TODO
+**Prerequisites**: Familiarity with first-order predicate logic.
 
 ## Information
 
