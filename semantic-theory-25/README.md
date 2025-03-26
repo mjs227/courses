@@ -9,8 +9,6 @@ TODO
 
 TODO
 
-You do not, however, need any background in graph deep learning: we will discuss current methodologies for modeling graph-stuctured data (i.e. graph neural networks) in class.
-
 ## Information
 
 **Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/)
