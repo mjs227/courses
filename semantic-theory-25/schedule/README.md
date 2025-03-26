@@ -7,8 +7,8 @@
 | April 15-16 | None | Introduction | No lecture |
 | April 22-23 | 1. [*Logic in Action*, Ch. 4 (Sec. 4.5-4.6)](http://www.logicinaction.org/docs/ch4.pdf)<br>2. [*Elements of Formal Semantics*, Ch. 2](https://www.phil.uu.nl/~yoad/efs/EFS-ch2-online.pdf) | Predicate Logic | No lecture |
 | April 29-30 | [*Elements of Formal Semantics*, Ch. 3<br>(Parts 1-2)](https://www.phil.uu.nl/~yoad/efs/EFS-ch3-online.pdf) | Type Theory | Exercise 1: Predicate Logic |
-| May 6-7 | TODO | Lambda Calculus | Exercise 2: Type Theory |
-| May 13-14 | TODO | Generalized Quantifiers | Exercise 3: Lambda Calculus |
+| May 6-7 | [*Elements of Formal Semantics*, Ch. 3<br>(Part 3)](https://www.phil.uu.nl/~yoad/efs/EFS-ch3-online.pdf) | Lambda Calculus | Exercise 2: Type Theory |
+| May 13-14 | [Generalized Quantifiers (Stanford<br>Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/generalized-quantifiers/) | Generalized Quantifiers | Exercise 3: Lambda Calculus |
 | May 20-21 | TODO | Implicature | Exercise 4: Generalized Quantifiers |
 | May 27-28 | TODO | Lexical Semantics | Exercise 5: Implicature |
 | June 3-4 | TODO | Event Semantics | Exercise 6: Lexical Semantics |
