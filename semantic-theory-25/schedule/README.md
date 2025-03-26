@@ -5,7 +5,7 @@
 | Week | Reading | Tuesday | Wednesday |
 | :--- | :--- | :--- | :--- |
 | April 15-16 | None | Introduction | No lecture |
-| April 22-23 | TODO | Predicate Logic | No lecture |
+| April 22-23 | TODO<br>TODO | Predicate Logic | No lecture |
 | April 29-30 | TODO | Type Theory | Exercise 1: Predicate Logic |
 | May 6-7 | TODO | Lambda Calculus | Exercise 2: Type Theory |
 | May 13-14 | TODO | Generalized Quantifiers | Exercise 3: Lambda Calculus |
