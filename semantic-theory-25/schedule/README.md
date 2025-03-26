@@ -5,7 +5,7 @@
 | Week | Reading | Tuesday | Wednesday |
 | :--- | :--- | :--- | :--- |
 | April 15-16 | None | Introduction | No lecture |
-| April 22-23 | TODO<br>TODO | Predicate Logic | No lecture |
+| April 22-23 | TODO | Predicate Logic | No lecture |
 | April 29-30 | TODO | Type Theory | Exercise 1: Predicate Logic |
 | May 6-7 | TODO | Lambda Calculus | Exercise 2: Type Theory |
 | May 13-14 | TODO | Generalized Quantifiers | Exercise 3: Lambda Calculus |
@@ -15,7 +15,7 @@
 | June 10-11| TODO | Dynamic Semantics | Exercise 7: Event Semantics |
 | June 17-18 | TODO | DRT | Exercise 8: Dynamic Semantics |
 | June 24-25 | TODO | Presuppositions | Exercise 9: DRT |
-| July 1-2 | TODO | Presuppositions in DRT | Exercise 10: Presuppositions |
+| July 1-2 | TODO<br>TODO | Presuppositions in DRT | Exercise 10: Presuppositions |
 | July 8-9 | None | Current Issues and Applications | No lecture |
 | July 15-16 | None | Exam Review | Take-home Practice Exam |
 | July 22-23 | None | **Exam** | No lecture |
