@@ -1,5 +1,7 @@
 [Home](https://mjs227.github.io/courses/semantic-theory-25/)&emsp;&emsp;[Assignments](https://mjs227.github.io/courses/semantic-theory-25/assignments/)&emsp;&emsp;**Schedule**&emsp;&emsp;[Lecture Slides](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/)
+
 # Schedule
+
 | Week | Reading | Tuesday | Wednesday |
 | :--- | :--- | :--- | :--- |
 | April 15-16 | None | Introduction | No lecture |
