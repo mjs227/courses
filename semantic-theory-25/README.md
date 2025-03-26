@@ -1,4 +1,4 @@
-**Home**&emsp;[Assignments](https://mjs227.github.io/courses/semantic-theory-25/assignments/)&emsp;[Schedule](https://mjs227.github.io/courses/semantic-theory-25/schedule/)&emsp;[Slides](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/)
+**Home**&emsp;[Assignments](https://mjs227.github.io/courses/semantic-theory-25/assignments/)&emsp;[Schedule](https://mjs227.github.io/courses/semantic-theory-25/schedule/)&emsp;[Lecture Slides](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/)
 # Semantic Theory (UdS; SoSe 25)
 
 ## Description
