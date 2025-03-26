@@ -9,9 +9,9 @@ TODO
 
 **Instructor:** [Michael Sullivan](https://www.acsu.buffalo.edu/~mjs227/) (msullivan@lst.uni-saarland.de)
 
-**Time/Location:** TODO
+**Time/Location:** Tues/Wed 10:15 - 11:45; Building C7.3, Room 1.12
 
-**Office Hours:** TODO
+**Office Hours:** Mon 14:00 - 16:00; Building C7.2, Room 1.04 (or on Teams by appointment)
 
 ## Evaluation
 
