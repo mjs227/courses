@@ -24,10 +24,3 @@ You do not, however, need any background in graph deep learning: we will discuss
 ## Evaluation
 
 TODO
-
-## Schedule
-
-TODO
-
-Here are some examples of survey papers, to give you an idea of the expected structure of your report:
-- [Machine Learning on Graphs: A Model and Comprehensive Taxonomy](https://www.jmlr.org/papers/v23/20-852.html)
