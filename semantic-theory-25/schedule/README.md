@@ -14,8 +14,7 @@
 | June 3-4 | [Event-Based Semantics (Lasersohn, 2012)](https://semanticsarchive.net/Archive/jFhNWM2M/eventbasedsemantics.pdf) | Event Semantics | Exercise 6: Lexical Semantics |
 | June 10-11| [Dynamic Semantics<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/dynamic-semantics/) | Dynamic Semantics | Exercise 7: Event Semantics |
 | June 17-18 | [Discourse Representation Theory<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/discourse-representation-theory/) | DRT | Exercise 8: Dynamic Semantics |
-| June 24-25 | None | Presuppositions | Exercise 9: DRT |
-| July 1-2 | None | Presuppositions in DRT | Exercise 10: Presuppositions |
-| July 8-9 | None | Current Issues and Applications | No lecture |
-| July 15-16 | None | Exam Review | Take-home Practice Exam |
-| July 22-23 | None | **Exam** | No lecture |
+| June 24-25 | None | Presuppositions in DRT | Exercise 9: DRT |
+| July 1-2 | None | Current Issues and Applications | Exercise 10: Presuppositions |
+| July 8-9 | None | Exam Review | Take-home Practice Exam |
+| July 15-16 | None | **Exam** | No lecture |
