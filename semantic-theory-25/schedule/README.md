@@ -4,17 +4,17 @@
 
 | Week | Reading | Tuesday | Wednesday |
 | :--- | :--- | :--- | :--- |
-| 1: April 15-16 | None | Introduction | No lecture |
-| 2: April 22-23 | 1. [*Logic in Action*, Ch. 4 (Sec. 4.5-4.6)](http://www.logicinaction.org/docs/ch4.pdf)<br>2. [*Elements of Formal Semantics*, Ch. 2](https://www.phil.uu.nl/~yoad/efs/EFS-ch2-online.pdf) | Predicate Logic | Overflow (*if necessary*) |
-| 3: April 29-30 | [*Elements of Formal Semantics*, Ch. 3<br>(Parts 1-2)](https://www.phil.uu.nl/~yoad/efs/EFS-ch3-online.pdf) | Type Theory | Exercise 1: Predicate Logic |
-| 4: May 6-7 | [*Elements of Formal Semantics*, Ch. 3<br>(Part 3)](https://www.phil.uu.nl/~yoad/efs/EFS-ch3-online.pdf) | Lambda Calculus | Exercise 2: Type Theory |
-| 5: May 13-14 | [Generalized Quantifiers<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/generalized-quantifiers/) | Generalized Quantifiers | Exercise 3: Lambda Calculus |
-| 6: May 20-21 | None | Lexical Semantics | Exercise 4: Generalized Quantifiers |
-| 7: May 27-28 | [Event-Based Semantics (Lasersohn, 2012)](https://semanticsarchive.net/Archive/jFhNWM2M/eventbasedsemantics.pdf) | Event Semantics | Exercise 5: Lexical Semantics |
-| 8: June 3-4 | [Dynamic Semantics<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/dynamic-semantics/) | Dynamic Semantics | Exercise 6: Event Semantics |
-| 9: June 10-11 | [Discourse Representation Theory<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/discourse-representation-theory/) | DRT | Exercise 7: Dynamic Semantics |
-| 10: June 17-18 | None | Presuppositions in DRT | Exercise 8: DRT |
-| 11: June 24-25 | None | Implicature | Exercise 9: Presuppositions in DRT |
-| 12: July 1-2 | None | Current Issues and Applications | Exercise 10: Implicature |
-| 13: July 8-9 | None | Exam Review | Take-home Practice Exam |
-| 14: July 15-16 | None | **Exam** | No lecture |
+| 1:<br>April 15-16 | None | Introduction | No lecture |
+| 2:<br>April 22-23 | 1. [*Logic in Action*, Ch. 4 (Sec. 4.5-4.6)](http://www.logicinaction.org/docs/ch4.pdf)<br>2. [*Elements of Formal Semantics*, Ch. 2](https://www.phil.uu.nl/~yoad/efs/EFS-ch2-online.pdf) | Predicate Logic | Overflow (*if necessary*) |
+| 3:<br>April 29-30 | [*Elements of Formal Semantics*, Ch. 3<br>(Parts 1-2)](https://www.phil.uu.nl/~yoad/efs/EFS-ch3-online.pdf) | Type Theory | Exercise 1: Predicate Logic |
+| 4:<br>May 6-7 | [*Elements of Formal Semantics*, Ch. 3<br>(Part 3)](https://www.phil.uu.nl/~yoad/efs/EFS-ch3-online.pdf) | Lambda Calculus | Exercise 2: Type Theory |
+| 5:<br>May 13-14 | [Generalized Quantifiers<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/generalized-quantifiers/) | Generalized Quantifiers | Exercise 3: Lambda Calculus |
+| 6:<br>May 20-21 | None | Lexical Semantics | Exercise 4: Generalized Quantifiers |
+| 7:<br>May 27-28 | [Event-Based Semantics (Lasersohn, 2012)](https://semanticsarchive.net/Archive/jFhNWM2M/eventbasedsemantics.pdf) | Event Semantics | Exercise 5: Lexical Semantics |
+| 8:<br>June 3-4 | [Dynamic Semantics<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/dynamic-semantics/) | Dynamic Semantics | Exercise 6: Event Semantics |
+| 9:<br>June 10-11 | [Discourse Representation Theory<br>(Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/discourse-representation-theory/) | DRT | Exercise 7: Dynamic Semantics |
+| 10:<br>June 17-18 | None | Presuppositions in DRT | Exercise 8: DRT |
+| 11:<br>June 24-25 | None | Implicature | Exercise 9: Presuppositions in DRT |
+| 12:<br>July 1-2 | None | Current Issues and Applications | Exercise 10: Implicature |
+| 13:<br>July 8-9 | None | Exam Review | Take-home Practice Exam |
+| 14:<br>July 15-16 | None | **Exam** | No lecture |
