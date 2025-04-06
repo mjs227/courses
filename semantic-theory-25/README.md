@@ -3,7 +3,9 @@
 
 ## Description
 
-TODO
+This course provides a comprehensive overview of Semantic Theory: the study and modeling of linguistic meaning via mathematical principles and tools&mdash;primarily, (variants of) first- and higher-order predicate logic. We will delve into compositional (sentence-level) and lexical (word-level) semantics, studying how complex meaning systematically arises from the application of syntactic combinatorics to the individual parts of complex expressions. Additionally, we will examine issues at the boundary between semantics and pragmatics, discussing the influence of pragmatic (discourse-level) phenomena&mdash;such as anaphora, presuppositions, and implicature&mdash;on semantic meaning, and vice-versa.
+
+Finally, this course will discuss current research questions in the field of Semantic Theory, and the applications of this field to current research in NLP.
 
 ## Information
 
@@ -13,6 +15,8 @@ TODO
 
 **Office Hours:** Mon 14:00 - 16:00; Building C7.2, Room 1.04 (or on Teams by appointment)
 
+**Teams Channel:** TODO
+
 ## Evaluation
 
-TODO
+Your grade for the final exam will be the entirety your grade for the course.
