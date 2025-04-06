@@ -19,4 +19,4 @@ Finally, this course will discuss current research questions in the field of Sem
 
 ## Evaluation
 
-Your grade for the final exam will be the entirety your grade for the course.
+Your grade for the final exam will be the entirety of your grade for the course.
