@@ -15,7 +15,7 @@ Finally, this course will discuss current research questions in the field of Sem
 
 **Office Hours:** Mon 14:00 - 16:00; Building C7.2, Room 1.04 (or on Teams by appointment)
 
-**Teams Channel:** [155270] Semantic Theory SoSe 25
+**Teams Channel:** [155270] Semantic Theory SoSe 25 (Code to join: 4pi3yqm)
 
 ## Evaluation
 
