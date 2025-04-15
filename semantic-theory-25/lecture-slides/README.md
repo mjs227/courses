@@ -2,4 +2,4 @@
 
 # Lecture Slides
 
-Nothing here yet!
+[Week 1: Introduction](https://mjs227.github.io/courses/semantic-theory-25/lecture-slides/01_intro.pdf)
