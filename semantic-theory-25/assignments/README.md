@@ -3,4 +3,4 @@
 
 # Assignments
 
-Nothing here yet!
+[Exercise 1: Predicate Logic](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex1.pdf)
