@@ -5,6 +5,6 @@
 
 [Exercise 1: Predicate Logic](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex1.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex1_key.pdf))
 
-[Exercise 2: Type Theory](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex2.pdf)
+[Exercise 2: Type Theory](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex2.pdf) ([key](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex2_key.pdf))
 
 [Exercise 3: Lambda Calculus](https://mjs227.github.io/courses/semantic-theory-25/assignments/ST25_ex3.pdf)
